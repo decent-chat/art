@@ -1,4 +1,7 @@
-svgtopng:
-	inkscape -f logo.svg -e logo.png
-	inkscape -f logo-notif.svg -e logo-notif.png
-	inkscape -f logotype.svg -e logotype.png
+svgs := $(wildcard *.svg)
+
+all: $(svgs)
+$(svgs):
+	inkscape -f $@ -e $@.png --export-dpi=480 # 500x500px
+
+.PHONY: all $(svgs)
