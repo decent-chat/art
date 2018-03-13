@@ -1,6 +1,7 @@
-# Decent Art
-
-![](logo.svg.png)
+<center>
+  <img align='left' src='logo-dark.svg.png' width='400' hspace='20'>
+  <img align='left' src='logo-light.svg.png' width='400' hspace='20'>
+</center>
 
 ## License
 
