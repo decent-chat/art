@@ -1,14 +1,11 @@
 <center>
-  <img align='left' src='logo-dark.svg.png' width='400' hspace='20'>
-  <img align='left' src='logo-light.svg.png' width='400' hspace='20'>
+  <img align='left' src='logo.svg.png' width='400' hspace='20'>
+  <img align='left' src='logo-blue.svg.png' width='400' hspace='20'>
 </center>
 
 ## Decent Art
 
-This repository contains SVG and PNG files of the Decent logo in three forms - [dark](dark.svg.png), [light](light.svg.png), and [neither](logo.svg.png). The two colours used in these logos are:
-
-* `#337df4` - light
-* `#1f2f48` - dark
+This repository contains SVG and PNG files of the Decent logo in two forms - [black](logo.svg.png) and [#568bbf](logo-blue.svg.png). The two colours used in these logos are:
 
 > **Note:** you're free to use these logos however you like, but we'd appreciate if they were only used for Decent-related projects and don't imply that we (the Decent maintainers) created your project.
 
@@ -17,8 +14,8 @@ Feel free to use these logos in client implementations and the like! :ok_woman:
 ## Key points
 
 * :ok_hand: looks suspiciously like a 'd' (**d**ecent)
-* Not very complicated - easy to recognise
-* The symbol often means something similar to 'decent' (ie. okay, fine, perfect)
+* Not very complex - easy to recognise
+* The symbol often means something similar to 'decent' (eg. okay, fine, perfect)
 
 ## License
 
